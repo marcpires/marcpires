@@ -5,16 +5,21 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=marcpires&show_icons=true
 >(https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 DevOps
 - 🌱 Datascience
 - 👯 AIOps/MLOps
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: he, him , his
+- ⚡ Fun fact: Have a progressinve Metal project called Theseus Paradox:
+    - https://www.deezer.com/search/theseus%20paradox%20nagast
+    - https://open.spotify.com/artist/0q8Lc0z74B87t90xoWazsx
+
