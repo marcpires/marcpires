@@ -11,8 +11,10 @@
 About me:
 
 - 🔭 DevOps
-- 🌱 Datascience
-- 👯 AIOps/MLOps
+- 👯 MLOps
+
+On-Going:
+- 🌱 Datascience MBA
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
