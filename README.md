@@ -12,9 +12,9 @@ About me:
 
 - 🔭 DevOps
 - 👯 MLOps
+- Data Science and Analytics Specialist - MBA USP/Esalq
 
 On-Going:
-- 🌱 Datascience MBA
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
