@@ -14,7 +14,6 @@ About me:
 - 👯 MLOps
 - Data Science and Analytics Specialist - MBA USP/Esalq
 
-On-Going:
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
